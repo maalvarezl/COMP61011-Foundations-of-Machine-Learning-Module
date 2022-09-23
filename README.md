@@ -12,6 +12,13 @@ This is module 1 in the *Learning from Data* theme. Machine Learning is concerne
 
 You can run the Jupyter Notebooks directly on [Google Colab](https://colab.research.google.com/notebooks/intro.ipynb?utm_source=scs-index). Click on each Colab Badge to open the notebook.
 
+### Week 1
+
+|  Lab session |  Google Colab link |
+|----------------|--------------------|
+|Week 1 - Intro to Python |  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()|
+
+<!---
 
 |  Lab session |  Google Colab link |
 |----------------|--------------------|
@@ -24,6 +31,8 @@ You can run the Jupyter Notebooks directly on [Google Colab](https://colab.resea
 |Lab 7 - Neural Networks | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/maalvarezl/MLAI/blob/master/Labs/Lab%207%20-%20Neural%20Networks.ipynb)|
 |Lab 8 - Unsupervised Learning | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/maalvarezl/MLAI/blob/master/Labs/Lab%208%20-%20Unsupervised%20learning.ipynb)|
 |Lab 9 - Generative Models | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/maalvarezl/MLAI/blob/master/Labs/Lab%209%20-%20Generative%20Model.ipynb)|
+
+--->
 
 If you want to save changes to the Notebook, you need to save them before quitting. According to [this link](https://colab.research.google.com/github/googlecolab/colabtools/blob/master/notebooks/colab-github-demo.ipynb#scrollTo=Rmai0dD30XzL):
 
