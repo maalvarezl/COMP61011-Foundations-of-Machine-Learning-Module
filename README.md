@@ -19,6 +19,16 @@ You can run the Jupyter Notebooks directly on [Google Colab](https://colab.resea
 |Week 1 - Intro to Python |  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/maalvarezl/COMP61011-Foundations-of-Machine-Learning-Module/blob/main/Labs/Week%201%20-%20Intro%20to%20Python.ipynb)|
 |Week 2 - Optimisation |  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/maalvarezl/COMP61011-Foundations-of-Machine-Learning-Module/blob/main/Labs/Week%201%20-%20Optimisation.ipynb)|
 
+### Week 2
+
+|  Lab session |  Google Colab link |
+|----------------|--------------------|
+|Week 2 - Logistic regression |  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()|
+|Week 2 - Perceptron |  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()|
+|Week 3 - Experimental methods |  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()|
+
+
+
 <!---
 
 |  Lab session |  Google Colab link |
