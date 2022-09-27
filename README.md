@@ -23,7 +23,7 @@ You can run the Jupyter Notebooks directly on [Google Colab](https://colab.resea
 
 |  Lab session |  Google Colab link |
 |----------------|--------------------|
-|Week 2 - Logistic regression |  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()|
+|Week 2 - Logistic regression |  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/maalvarezl/COMP61011-Foundations-of-Machine-Learning-Module/blob/main/Labs/Week%202%20-%20Logistic%20regression.ipynb)|
 |Week 2 - Perceptron |  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()|
 |Week 3 - Experimental methods |  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()|
 
