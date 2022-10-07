@@ -27,7 +27,11 @@ You can run the Jupyter Notebooks directly on [Google Colab](https://colab.resea
 |Week 2 - Perceptron |  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/maalvarezl/COMP61011-Foundations-of-Machine-Learning-Module/blob/main/Labs/Week%202%20-%20Perceptron.ipynb)|
 |Week 2 - Experimental methods |  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/maalvarezl/COMP61011-Foundations-of-Machine-Learning-Module/blob/main/Labs/Week%202%20-%20Experimental%20methods.ipynb)|
 
+### Week 3
 
+|  Lab session |  Google Colab link |
+|----------------|--------------------|
+|Week 2 - End-to-end machine learning |  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/maalvarezl/COMP61011-Foundations-of-Machine-Learning-Module/blob/main/Labs/Week%203%20-%20End-to-end%20project%20in%20ML.ipynb)|
 
 <!---
 
