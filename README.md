@@ -4,7 +4,7 @@
 
 ## Description
 
-This is a six-level module offered by the Department of Computer Science at the University of Manchester.
+This is a level six (MSc) module offered by the Department of Computer Science at the University of Manchester.
 
 This is module 1 in the *Learning from Data* theme. Machine Learning is concerned with creating mathematical "data structures" that allow a computer to exhibit behaviour that would normally require a human. Typical applications might be spam filtering, speech recognition, medical diagnosis, or weather prediction. The data structures we use (known as "models") come in various forms, e.g. trees, graphs, algebraic equations, and probability distributions. The emphasis is on constructing these models automatically from data---for example making a weather predictor from a datafile of historical weather patterns. This course will introduce you to the concepts behind various Machine Learning techniques, including how they work, and use existing software packages to illustrate how they behave.
 
@@ -17,7 +17,7 @@ You can run the Jupyter Notebooks directly on [Google Colab](https://colab.resea
 |  Lab session |  Google Colab link |
 |----------------|--------------------|
 |Week 1 - Intro to Python |  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/maalvarezl/COMP61011-Foundations-of-Machine-Learning-Module/blob/main/Labs/Week%201%20-%20Intro%20to%20Python.ipynb)|
-|Week 2 - Optimisation |  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/maalvarezl/COMP61011-Foundations-of-Machine-Learning-Module/blob/main/Labs/Week%201%20-%20Optimisation.ipynb)|
+|Week 1 - Optimisation |  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/maalvarezl/COMP61011-Foundations-of-Machine-Learning-Module/blob/main/Labs/Week%201%20-%20Optimisation.ipynb)|
 
 ### Week 2
 
@@ -31,7 +31,7 @@ You can run the Jupyter Notebooks directly on [Google Colab](https://colab.resea
 
 |  Lab session |  Google Colab link |
 |----------------|--------------------|
-|Week 2 - End-to-end machine learning |  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/maalvarezl/COMP61011-Foundations-of-Machine-Learning-Module/blob/main/Labs/Week%203%20-%20End-to-end%20project%20in%20ML.ipynb)|
+|Week 3 - End-to-end machine learning |  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/maalvarezl/COMP61011-Foundations-of-Machine-Learning-Module/blob/main/Labs/Week%203%20-%20End-to-end%20project%20in%20ML.ipynb)|
 
 <!---
 
