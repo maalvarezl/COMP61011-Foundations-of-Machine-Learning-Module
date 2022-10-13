@@ -31,7 +31,9 @@ You can run the Jupyter Notebooks directly on [Google Colab](https://colab.resea
 
 |  Lab session |  Google Colab link |
 |----------------|--------------------|
+|Week 3 - intro to sklearn |  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/maalvarezl/COMP61011-Foundations-of-Machine-Learning-Module/blob/main/Labs/Week%203%20-%20SKlearn_intro.ipynb)|
 |Week 3 - End-to-end machine learning |  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/maalvarezl/COMP61011-Foundations-of-Machine-Learning-Module/blob/main/Labs/Week%203%20-%20End-to-end%20project%20in%20ML.ipynb)|
+|Week 3 - End-to-end machine learning practice |  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/maalvarezl/COMP61011-Foundations-of-Machine-Learning-Module/blob/main/Labs/Week%203%20-%20End-to-end%20project%20in%20ML.ipynb)|
 
 <!---
 
