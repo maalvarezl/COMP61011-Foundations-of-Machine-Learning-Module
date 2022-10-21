@@ -40,7 +40,7 @@ You can run the Jupyter Notebooks directly on [Google Colab](https://colab.resea
 |  Lab session |  Google Colab link |
 |----------------|--------------------|
 |Week 4 - Autodiff in Pytorch |  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/maalvarezl/COMP61011-Foundations-of-Machine-Learning-Module/blob/main/Labs/Week%204%20-%201%20autodiff.ipynb)|
-|Week 4 - Multilayer Perceptrons |  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/maalvarezl/COMP61011-Foundations-of-Machine-Learning-Module/blob/main/Labs/Week%204%20-%202%20MLPs.ipynb)|
+|Week 4 - Multilayer Perceptrons (bug fixes - 2022.10.21)|  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/maalvarezl/COMP61011-Foundations-of-Machine-Learning-Module/blob/main/Labs/Week%204%20-%202%20MLPs.ipynb)|
 |Week 4 - Convolutional Neural Networks |  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/maalvarezl/COMP61011-Foundations-of-Machine-Learning-Module/blob/main/Labs/Week%204%20-%203%20CNNs.ipynb)|
 
 
