@@ -1,6 +1,6 @@
-# COMP61011 Foundations of Machine Learning 2022/2023 - University of Manchester
+# COMP61011 Foundations of Machine Learning 2023/2024 - University of Manchester
 
-**Course Lecturers**: [David Wong](https://personalpages.manchester.ac.uk/staff/david.wong/default.htm) and [Mauricio A Álvarez](https://maalvarezl.github.io/)
+**Course Lecturers**: [Mauricio A Álvarez](https://maalvarezl.github.io/) and [Mingfei Sun](https://mingfeisun.github.io/)
 
 ## Description
 
@@ -8,12 +8,17 @@ This is a level six (MSc) module offered by the Department of Computer Science a
 
 This is module 1 in the *Learning from Data* theme. Machine Learning is concerned with creating mathematical "data structures" that allow a computer to exhibit behaviour that would normally require a human. Typical applications might be spam filtering, speech recognition, medical diagnosis, or weather prediction. The data structures we use (known as "models") come in various forms, e.g. trees, graphs, algebraic equations, and probability distributions. The emphasis is on constructing these models automatically from data---for example making a weather predictor from a datafile of historical weather patterns. This course will introduce you to the concepts behind various Machine Learning techniques, including how they work, and use existing software packages to illustrate how they behave.
 
+<!---
 ## Assignment
 The assignment notebook is available on Blackboard, but also here: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/maalvarezl/COMP61011-Foundations-of-Machine-Learning-Module/blob/main/Labs/COMP61011-Assignment-2022-2023.ipynb#scrollTo=u8rfiN7Ntsfz)
+
+-->
 
 ## Lab sessions
 
 You can run the Jupyter Notebooks directly on [Google Colab](https://colab.research.google.com/notebooks/intro.ipynb?utm_source=scs-index). Click on each Colab Badge to open the notebook.
+
+<!---
 
 ### Week 1
 
@@ -21,6 +26,8 @@ You can run the Jupyter Notebooks directly on [Google Colab](https://colab.resea
 |----------------|--------------------|
 |Week 1 - Intro to Python |  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/maalvarezl/COMP61011-Foundations-of-Machine-Learning-Module/blob/main/Labs/Week%201%20-%20Intro%20to%20Python.ipynb)|
 |Week 1 - Optimisation |  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/maalvarezl/COMP61011-Foundations-of-Machine-Learning-Module/blob/main/Labs/Week%201%20-%20Optimisation.ipynb)|
+
+
 
 ### Week 2
 
@@ -53,7 +60,6 @@ You can run the Jupyter Notebooks directly on [Google Colab](https://colab.resea
 |Week 5 - Decision trees and ensemble methods |  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/maalvarezl/COMP61011-Foundations-of-Machine-Learning-Module/blob/main/Labs/Week%205%20-%20Decision%20trees%20and%20ensemble%20methods.ipynb)|
 
 
-<!---
 
 |  Lab session |  Google Colab link |
 |----------------|--------------------|
