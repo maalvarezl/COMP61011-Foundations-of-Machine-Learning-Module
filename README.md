@@ -18,16 +18,11 @@ The assignment notebook is available on Blackboard, but also here: [![Open In Co
 
 You can run the Jupyter Notebooks directly on [Google Colab](https://colab.research.google.com/notebooks/intro.ipynb?utm_source=scs-index). Click on each Colab Badge to open the notebook.
 
+|  Week          | Lab session        |  Google Colab link |
+|----------------|--------------------|--------------------|
+|    1           |Probability and an Introduction to Jupyter, Python and Pandas  |  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/maalvarezl/COMP61011-Foundations-of-Machine-Learning-Module/blob/main/Labs/Lab%201%20-%20Probability%20and%20Introduction%20to%20Jupyter%20Notebooks.ipynb)|
+
 <!---
-
-### Week 1
-
-|  Lab session |  Google Colab link |
-|----------------|--------------------|
-|Week 1 - Intro to Python |  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/maalvarezl/COMP61011-Foundations-of-Machine-Learning-Module/blob/main/Labs/Week%201%20-%20Intro%20to%20Python.ipynb)|
-|Week 1 - Optimisation |  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/maalvarezl/COMP61011-Foundations-of-Machine-Learning-Module/blob/main/Labs/Week%201%20-%20Optimisation.ipynb)|
-
-
 
 ### Week 2
 
