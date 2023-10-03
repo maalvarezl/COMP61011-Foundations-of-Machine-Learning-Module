@@ -21,6 +21,11 @@ You can run the Jupyter Notebooks directly on [Google Colab](https://colab.resea
 |  Group A (5-week) | Group B (12-week)  | Lab session        |  Google Colab link |
 |----------------|----------------|--------------------|--------------------|
 |    September 29           | October 6               |Probability and an Introduction to Jupyter, Python and Pandas  |  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/maalvarezl/COMP61011-Foundations-of-Machine-Learning-Module/blob/main/Labs/Lab%201%20-%20Probability%20and%20Introduction%20to%20Jupyter%20Notebooks.ipynb)|
+|    October 6           | October 20               |An end-to-end ML project |  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/maalvarezl/COMP61011-Foundations-of-Machine-Learning-Module/blob/main/Labs/Lab%202%20-%20End-to-end%20project%20in%20ML.ipynb)|
+
+
+
+
 
 <!---
 
