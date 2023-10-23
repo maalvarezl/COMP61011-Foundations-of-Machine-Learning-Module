@@ -24,6 +24,7 @@ You can run the Jupyter Notebooks directly on [Google Colab](https://colab.resea
 |    October 6           | October 20               |An end-to-end ML project |  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/maalvarezl/COMP61011-Foundations-of-Machine-Learning-Module/blob/main/Labs/Lab%202%20-%20End-to-end%20project%20in%20ML.ipynb)|
 |    October 13           | November 10               |Linear models |  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/maalvarezl/COMP61011-Foundations-of-Machine-Learning-Module/blob/main/Labs/Lab%203%20-%20Linear%20models.ipynb)|
 |    October 20           | November 24               |Neural networks |  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/maalvarezl/COMP61011-Foundations-of-Machine-Learning-Module/blob/main/Labs/Lab%204%20-%20Neural_networks.ipynb)|
+|    October 27           | December 8               |Decision trees and ensemble methods |  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/maalvarezl/COMP61011-Foundations-of-Machine-Learning-Module/blob/main/Labs/Lab%205%20-%20Decision%20trees%20and%20ensemble%20methods.ipynb)|
 
 
 
