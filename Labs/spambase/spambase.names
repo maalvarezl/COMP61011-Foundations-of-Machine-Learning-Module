@@ -28,8 +28,7 @@
 | For more information, see file 'spambase.DOCUMENTATION' at the
 | UCI Machine Learning Repository: http://www.ics.uci.edu/~mlearn/MLRepository.html
 
-
-1, 0.    | spam, non-spam classes
+| 1, 0.    | spam, non-spam classes
 
 word_freq_make:         continuous.
 word_freq_address:      continuous.
