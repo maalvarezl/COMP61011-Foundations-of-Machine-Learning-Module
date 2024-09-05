@@ -1,4 +1,4 @@
-# COMP61011 Foundations of Machine Learning 2023/2024 - University of Manchester
+# COMP61011 Foundations of Machine Learning 2024/2025 - University of Manchester
 
 **Course Lecturers**: [Mauricio A Álvarez](https://maalvarezl.github.io/) and [Mingfei Sun](https://mingfeisun.github.io/)
 
@@ -14,9 +14,13 @@ The assignment notebook is available on Blackboard, but also here: [![Open In Co
 
 -->
 
+
 ## Lab sessions
 
+
 You can run the Jupyter Notebooks directly on [Google Colab](https://colab.research.google.com/notebooks/intro.ipynb?utm_source=scs-index). Click on each Colab Badge to open the notebook.
+
+<!---
 
 |  Group A (5-week) | Group B (12-week)  | Lab session        |  Google Colab link |
 |----------------|----------------|--------------------|--------------------|
@@ -24,7 +28,7 @@ You can run the Jupyter Notebooks directly on [Google Colab](https://colab.resea
 |    October 6           | October 20               |An end-to-end ML project |  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/maalvarezl/COMP61011-Foundations-of-Machine-Learning-Module/blob/main/Labs/Lab%202%20-%20End-to-end%20project%20in%20ML.ipynb)|
 |    October 13           | November 10               |Linear models |  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/maalvarezl/COMP61011-Foundations-of-Machine-Learning-Module/blob/main/Labs/Lab%203%20-%20Linear%20models.ipynb)|
 
-
+-->
 
 
 <!---
