@@ -1,4 +1,4 @@
-# COMP61011 Foundations of Machine Learning 2024/2025 - University of Manchester
+# COMP61011/61041 Foundations of Machine Learning 2024/2025 - University of Manchester
 
 **Course Lecturers**: [Mauricio A Álvarez](https://maalvarezl.github.io/) and [Mingfei Sun](https://mingfeisun.github.io/)
 
