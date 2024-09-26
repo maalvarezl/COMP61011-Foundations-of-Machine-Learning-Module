@@ -20,11 +20,14 @@ The assignment notebook is available on Blackboard, but also here: [![Open In Co
 
 You can run the Jupyter Notebooks directly on [Google Colab](https://colab.research.google.com/notebooks/intro.ipynb?utm_source=scs-index). Click on each Colab Badge to open the notebook.
 
+
+|  COMP61011 (5-week) | COMP61041 (12-week)  | Lab session        |  Google Colab link |
+|----------------|----------------|--------------------|--------------------|
+|    September 27           | October 1               |An end-to-end ML project |  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/maalvarezl/COMP61011-Foundations-of-Machine-Learning-Module/blob/main/Labs/Lab%201%20-%20End-to-end%20project%20in%20ML.ipynb#scrollTo=eL9wSUdyxvXF)|
+
 <!---
 
-|  Group A (5-week) | Group B (12-week)  | Lab session        |  Google Colab link |
-|----------------|----------------|--------------------|--------------------|
-|    September 29           | October 6               |Probability and an Introduction to Jupyter, Python and Pandas  |  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/maalvarezl/COMP61011-Foundations-of-Machine-Learning-Module/blob/main/Labs/Lab%201%20-%20Probability%20and%20Introduction%20to%20Jupyter%20Notebooks.ipynb)|
+
 |    October 6           | October 20               |An end-to-end ML project |  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/maalvarezl/COMP61011-Foundations-of-Machine-Learning-Module/blob/main/Labs/Lab%202%20-%20End-to-end%20project%20in%20ML.ipynb)|
 |    October 13           | November 10               |Linear models |  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/maalvarezl/COMP61011-Foundations-of-Machine-Learning-Module/blob/main/Labs/Lab%203%20-%20Linear%20models.ipynb)|
 |    October 20           | November 24               |Neural networks |  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/maalvarezl/COMP61011-Foundations-of-Machine-Learning-Module/blob/main/Labs/Lab%204%20-%20Neural_networks.ipynb)|
