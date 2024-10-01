@@ -24,6 +24,8 @@ You can run the Jupyter Notebooks directly on [Google Colab](https://colab.resea
 |  COMP61011 (5-week) | COMP61041 (12-week)  | Lab session        |  Google Colab link |
 |----------------|----------------|--------------------|--------------------|
 |    September 27           | October 1               |An end-to-end ML project |  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/maalvarezl/COMP61011-Foundations-of-Machine-Learning-Module/blob/main/Labs/Lab%201%20-%20End-to-end%20project%20in%20ML.ipynb#scrollTo=eL9wSUdyxvXF)|
+|    October 4           | October 15               |Reviews of probability and linear algebra |  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/maalvarezl/COMP61011-Foundations-of-Machine-Learning-Module/blob/main/Labs/Lab%202%20-%20Probability.ipynb#scrollTo=GNqDYIlJRDYs)|
+
 
 <!---
 
