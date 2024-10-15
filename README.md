@@ -27,7 +27,7 @@ You can run the Jupyter Notebooks directly on [Google Colab](https://colab.resea
 |    October 4           | October 15               |Probability|  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/maalvarezl/COMP61011-Foundations-of-Machine-Learning-Module/blob/main/Labs/Lab%202%20-%20Probability.ipynb)|
 |    October 4           | October 15               |Linear algebra and linear regresion (part 1) |  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/maalvarezl/COMP61011-Foundations-of-Machine-Learning-Module/blob/main/Labs/Lab%202%20-%20Linear%20algebra%20Linear%20regression%20part%201.ipynb)|
 |    October 11           | November 5                |Linear algebra and linear regresion (part 2) |  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/maalvarezl/COMP61011-Foundations-of-Machine-Learning-Module/blob/main/Labs/Lab%203%20-%20Linear%20algebra%20and%20linear%20regression%20part%202.ipynb#scrollTo=fsaKUItAwDm9)|
-
+|    October 18           | November 19                |Linear algebra and linear regresion (part 2) |  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/maalvarezl/COMP61011-Foundations-of-Machine-Learning-Module/blob/1bc7c176039eb338262f1f573a2eaaed14b47135/Labs/Lab%204%20-%20Neural%20networks.ipynb)|
 
 
 <!---
